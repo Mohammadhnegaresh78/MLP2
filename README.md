@@ -35,8 +35,8 @@ To get started with this project, follow these steps:
 Clone the Repository
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/alirezarezaeei78/Mini_project_2.git
-cd Mini_project_2
+git clone https://github.com/Mohammadhnegaresh78/MLP2.git
+cd MLP2
 Install Required Packages
 Install the required Python packages using pip:
 
